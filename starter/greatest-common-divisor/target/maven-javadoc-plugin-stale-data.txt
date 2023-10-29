@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/src/main/java:/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'greatest-common-divisor 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'greatest-common-divisor 1.0-SNAPSHOT API'
+com.udacity.gcd
+com.udacity
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/src/main/java = 1698067561000
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/generated-sources/annotations = 1698068879000
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/tag-search-index.js = 1698069452994
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/overview-tree.html = 1698069452987
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/module-search-index.js = 1698069452994
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/index.html = 1698069452989
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/package-search-index.js = 1698069452994
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/jquery-ui.overrides.css = 1698069453007
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/index-all.html = 1698069452998
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/allpackages-index.html = 1698069452994
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/member-search-index.js = 1698069452994
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/copy.svg = 1698069453002
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/script.js = 1698069453002
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/stylesheet.css = 1698069453002
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/overview-summary.html = 1698069452998
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/help-doc.html = 1698069453001
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/element-list = 1698069452974
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/allclasses-index.html = 1698069452993
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/type-search-index.js = 1698069452994
+/Users/praveenkumarthangaraj/Documents/JavaCourse/MavenCourse/starter/greatest-common-divisor/target/apidocs/search.js = 1698069453003

@@ -1,0 +1,4 @@
+--patch-module
+com.udacity.flight=_
+--add-reads
+com.udacity.flight=ALL-UNNAMED

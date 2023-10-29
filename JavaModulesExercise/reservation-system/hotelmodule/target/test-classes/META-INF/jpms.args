@@ -1,0 +1,4 @@
+--patch-module
+com.udacity.hotel=_
+--add-reads
+com.udacity.hotel=ALL-UNNAMED

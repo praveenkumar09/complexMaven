@@ -1,0 +1,4 @@
+--patch-module
+com.udacity.packagesearch=_
+--add-reads
+com.udacity.packagesearch=ALL-UNNAMED
